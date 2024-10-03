@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(194, 170, 111);
+}
+
+#button1, #button2 {
+    background-color: #5f3d0a;
+    color: rgb(255, 254, 196);
+}
