@@ -1,3 +1,19 @@
 body {
     background-color: rgb(255, 186, 249);
 }
+
+#metodeMap, #metodeFilter, #metodeReduce {
+    list-style-type: none;
+}
+
+.liClass {
+    background-color: #720494;
+    color: azure;
+    font-size: larger;
+    font-weight: bolder;
+}
+
+#button1, #button2, #button3 {
+    background-color: #2b0038;
+    color: bisque;
+}
