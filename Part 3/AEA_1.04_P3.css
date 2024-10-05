@@ -6,3 +6,7 @@ body {
     background-color: #5f3d0a;
     color: rgb(255, 254, 196);
 }
+
+#list1, #list2 {
+    list-style-type: none;
+}
